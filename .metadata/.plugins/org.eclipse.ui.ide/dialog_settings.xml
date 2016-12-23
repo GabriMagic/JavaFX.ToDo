@@ -5,6 +5,10 @@
 		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
 		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="E:\DAD\JavaFX.ToDo\JavaFX.AgendaUI"/>
+			<item value="E:\DAD\JavaFX.ToDo\JavaFX.AgendaService.JPA"/>
+			<item value="E:\DAD\JavaFX.ToDo\JavaFX.AgendaService.JAXB"/>
+			<item value="E:\DAD\JavaFX.ToDo\JavaFX.AgendaService"/>
 			<item value="E:\DAD\JavaFX.ToDo\JavaFX.ToDo.UI"/>
 			<item value="E:\DAD\JavaFX.ToDo\JavaFX.ToDo.Services.JPA"/>
 			<item value="E:\DAD\JavaFX.ToDo\JavaFX.ToDo.Services"/>
