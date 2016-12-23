@@ -1,0 +1,10 @@
+package dad.todo.services;
+
+import dad.todo.items.EventoItem;
+
+public interface EventoService {
+
+		public void crear(EventoItem evento);
+		
+	
+}
