@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/JavaFX.AgendaUI/src/dad/agenda/ui/AgendaApp.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="dad.agenda.ui.AgendaApp"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="JavaFX.AgendaUI"/>
+</launchConfiguration>

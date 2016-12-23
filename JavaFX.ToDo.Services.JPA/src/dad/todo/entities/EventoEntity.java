@@ -27,12 +27,12 @@ public class EventoEntity {
 
 	}
 
-	private EventoItem totitem() {
+	public EventoItem totitem() {
 
 		return null;
 	}
 
-	private final EventoEntity fromItem(EventoItem item) {
+	public final EventoEntity fromItem(EventoItem item) {
 
 		return null;
 	}
