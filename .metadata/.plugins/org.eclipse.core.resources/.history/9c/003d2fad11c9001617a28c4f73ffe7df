@@ -1,5 +1,0 @@
-package dad.todo.services;
-
-public interface EventoService {
-
-}
